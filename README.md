@@ -4,6 +4,7 @@ So, I've finally made the decision to take programming seriously. Therefore, I'v
 
 I'll make sure to update this Readme file with the link to each daily challenge in this repo on GitHub and on the LeetCode website. Please wish me well! 🌟😊❤️
 
-| S/N | Challenge                   | File Name | Difficulty        | GitHub Link                                                               | LeetCode Link                                                                      |
-| --- | --------------------------- | --------- | ----------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1   | Create Hello World Function | 1.js      | Extremely Easy 😁 | [GitHub](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/1.js) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/description/) |
+| S/N | Challenge                   | File Name | Difficulty        | GitHub Link                                                                    | LeetCode Link                                                                           |
+| --- | --------------------------- | --------- | ----------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| 1   | Create Hello World Function | 1.js      | Extremely Easy 😁 | [GitHub@1.js](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/1.js) | [LeetCode@1.js](https://leetcode.com/problems/create-hello-world-function/description/) |
+
