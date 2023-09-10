@@ -10,4 +10,5 @@ I'll make sure to update this Readme file with the link to each daily challenge 
 | 2   | Counter | 2.js      | Extremely Easy 😁|[GitHub@2.js](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/2.js)|[LeetCode@2.js](https://leetcode.com/problems/counter/description/)|
 | 3   | To Be or Not To Be | 3.js      | Easy but I learnt sth new👍|[GitHub@3.js](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/3.js)|[LeetCode@3.js](https://leetcode.com/problems/to-be-or-not-to-be/description/)|
 | 4   | Counter II | 4.js      | Too easy used stuffs i learnt in old challenge 👍|[GitHub@4.js](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/4.js)|[LeetCode@4.js](https://leetcode.com/problems/counter-ii/description/)|
+| 5   | Apply Transform Over Each Element in Array | 5.js      | Easy 👍|[GitHub@5.js](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/5.js)|[LeetCode@5.js](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)|
 
