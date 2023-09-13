@@ -1,8 +1,9 @@
 Hi there! 👋
 
-So, I've finally made the decision to take programming seriously. Therefore, I've decided to do this LeetCode 30-day JavaScript (JS) interview challenge. 😃
+So, I've finally made the decision to take programming seriously. Therefore, I've decided to do this [LeetCode 30-day JavaScript(JS)](https://leetcode.com/studyplan/30-days-of-javascript/) interview challenge. 😃
 
-I'll make sure to update this Readme file with the link to each daily challenge in this repo on GitHub and on the LeetCode website. Please wish me well! 🌟😊❤️
+I'll make sure to update this Readme file with the link to each daily challenge in this repo on my [GitHub profile](https://github.com/ayatullahkhalid) and on the [LeetCode website](https://leetcode.com/problemset/all/?page=1&sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkZST05URU5EX0lEIn1d). 
+Please wish me well! 🌟😊❤️
 
 | S/N | Challenge                                  | Difficulty                                          | GitHub Link                                                                                                         | LeetCode Link                                                                                       |
 | --- | ------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -13,4 +14,4 @@ I'll make sure to update this Readme file with the link to each daily challenge 
 | 5   | Apply Transform Over Each Element in Array | Easy 👍                                             | [GitHub#5](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/5.%20applyTransformOverEachElementInArray.js) | [LeetCode#5](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/) |
 | 6   | Filter Elements From Array                 | Easy 👍                                             | [GitHub#6](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/6.%20filterElementsFromArray.js)              | [LeetCode#6](https://leetcode.com/problems/filter-elements-from-array/description/)                 |
 | 7   | Array Reduce Transformation                | Easy 👍                                             | [GitHub#7](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/7.%20arrayReduceTransformation.js)            | [LeetCode#7](https://leetcode.com/problems/array-reduce-transformation/description/)                |
-| 8   | Function Composition                       | Easy 👍| [GitHub#8](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/8.%20functionComposition.js)| [LeetCode#8](https://leetcode.com/problems/function-composition/description/)|
+| 8   | Function Composition                       | Easy 👍                                             | [GitHub#8](https://github.com/ayatullahkhalid/30-Days-of-JS/blob/main/8.%20functionComposition.js)                  | [LeetCode#8](https://leetcode.com/problems/function-composition/description/)                       |
