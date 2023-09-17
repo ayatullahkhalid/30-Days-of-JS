@@ -1,3 +1,4 @@
+#30 Days of JS
 Hi there! 👋
 
 So, I've finally made the decision to take programming seriously. Therefore, I've decided to do this [LeetCode 30-day JavaScript(JS)](https://leetcode.com/studyplan/30-days-of-javascript/) interview challenge. 😃
